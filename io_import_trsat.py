@@ -6,8 +6,8 @@ bl_info = {
     "location": "File > Import-Export",
     "description": "Import .SAT file",
     "warning": "",
-    "wiki_url": "https://github.com/ijacquez/?",
-    "tracker_url": "https://github.com/ijacquez/?/issues",
+    "wiki_url": "https://github.com/ijacquez/trsat",
+    "tracker_url": "https://github.com/ijacquez/trsat/issues",
     "category": "Import-Export"
 }
 
